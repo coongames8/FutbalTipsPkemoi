@@ -256,6 +256,6 @@ export default function PaypalPayments({ setUserData }) {
           Paying: ${price} for {getPlanName(price)} VIP
         </p>
       </div>
-    </div>
+    </div> 
   );
 }
